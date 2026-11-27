@@ -53,7 +53,7 @@
 │   ├─ _headers                새 주보가 바로 반영되게 하는 설정 (수정하지 않음)
 │   └─ icon-192.png, icon-512.png   앱 아이콘
 ├─ Code.gs                     구글 시트 연결용 코드 (서버에는 올리지 않음)
-├─ manual.pdf                  14쪽 사용 설명서
+├─ manual.pdf                  15쪽 사용 설명서
 └─ docs/images/                이 문서에 쓰인 화면 이미지
 ```
 
